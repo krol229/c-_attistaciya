@@ -1,0 +1,14 @@
+F:\repos\forattistat\forattistat\bin\Debug\forattistat.exe.config
+F:\repos\forattistat\forattistat\bin\Debug\forattistat.exe
+F:\repos\forattistat\forattistat\bin\Debug\forattistat.pdb
+F:\repos\forattistat\forattistat\obj\Debug\forattistat.csproj.AssemblyReference.cache
+F:\repos\forattistat\forattistat\obj\Debug\forattistat.csproj.SuggestedBindingRedirects.cache
+F:\repos\forattistat\forattistat\obj\Debug\MainWindow.g.cs
+F:\repos\forattistat\forattistat\obj\Debug\App.g.cs
+F:\repos\forattistat\forattistat\obj\Debug\forattistat_MarkupCompile.cache
+F:\repos\forattistat\forattistat\obj\Debug\forattistat_MarkupCompile.lref
+F:\repos\forattistat\forattistat\obj\Debug\MainWindow.baml
+F:\repos\forattistat\forattistat\obj\Debug\forattistat.g.resources
+F:\repos\forattistat\forattistat\obj\Debug\forattistat.csproj.CoreCompileInputs.cache
+F:\repos\forattistat\forattistat\obj\Debug\forattistat.exe
+F:\repos\forattistat\forattistat\obj\Debug\forattistat.pdb
